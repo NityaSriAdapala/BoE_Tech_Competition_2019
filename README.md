@@ -1,4 +1,4 @@
-# BoE_Tech_Competition_2019
+# Bank of England Technology Competition 2019
 
 This is my entry for the Bank of England Technology Competition 2019, about the impact of climate change on the UK economy. 
 Using the large data sets from the excel spreadsheets provided, I created multiple graphs using Python packages such as pandas, matplotlib and scikit. 
